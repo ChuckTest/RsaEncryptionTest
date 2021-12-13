@@ -2,3 +2,6 @@
 *.suo
 bin
 obj
+.vs
+Backup
+UpgradeLog.htm
